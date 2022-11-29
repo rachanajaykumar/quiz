@@ -1,1 +1,3 @@
 bambi
+thor
+toy story
