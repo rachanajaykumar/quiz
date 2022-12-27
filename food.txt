@@ -1,4 +1,2 @@
 apple
 banana
-pizza 
-tomato
